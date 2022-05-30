@@ -6,7 +6,7 @@
 - **Skype:** sin085
 
 ## Release date
-May 26, 2022
+May 30, 2022
 
 ## Environment
 - `Node.js v14.17.0`
